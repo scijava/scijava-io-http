@@ -85,8 +85,7 @@
 	<properties>
 		<package-name>org.scijava.io.http</package-name>
 		<license.licenseName>bsd_2</license.licenseName>
-		<license.copyrightOwners>KNIME GmbH and Board of Regents of the University
-of Wisconsin-Madison.</license.copyrightOwners>
+		<license.copyrightOwners>SciJava developers.</license.copyrightOwners>
 
 		<okhttp.version>4.7.2</okhttp.version>
 

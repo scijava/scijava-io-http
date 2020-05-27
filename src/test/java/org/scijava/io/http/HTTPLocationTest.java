@@ -2,8 +2,7 @@
  * #%L
  * SciJava I/O support for HTTP/HTTPS.
  * %%
- * Copyright (C) 2017 KNIME GmbH and Board of Regents of the University
- * of Wisconsin-Madison.
+ * Copyright (C) 2017 - 2020 SciJava developers.
  * %%
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are met:
