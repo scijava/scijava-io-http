@@ -29,20 +29,6 @@
 
 	<developers>
 		<developer>
-			<id>gab1one</id>
-			<name>Gabriel Einsdorf</name>
-			<url>https://imagej.net/User:gab1one</url>
-			<roles>
-				<role>founder</role>
-				<role>lead</role>
-				<role>developer</role>
-				<role>debugger</role>
-				<role>reviewer</role>
-				<role>support</role>
-				<role>maintainer</role>
-			</roles>
-		</developer>
-		<developer>
 			<id>ctrueden</id>
 			<name>Curtis Rueden</name>
 			<url>https://imagej.net/User:Rueden</url>
@@ -58,12 +44,16 @@
 		</developer>
 	</developers>
 	<contributors>
-		<!--
-		NB: Need at least one element to override the parent.
-		See: https://issues.apache.org/jira/browse/MNG-5220
-		-->
 		<contributor>
-			<name>None</name>
+			<name>Gabriel Einsdorf</name>
+			<url>https://imagej.net/User:gab1one</url>
+			<properties><id>gab1one</id></properties>
+			<roles><role>founder</role></roles>
+		</contributor>
+		<contributor>
+			<name>Tiago Ferreira</name>
+			<url>https://imagej.net/User:Tiago</url>
+			<properties><id>tferr</id></properties>
 		</contributor>
 	</contributors>
 
