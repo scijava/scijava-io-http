@@ -1,4 +1,4 @@
-[![](https://travis-ci.org/scijava/scijava-io-http.svg?branch=master)](https://travis-ci.org/scijava/scijava-io-http)
+[![](https://github.com/scijava/scijava-io-http/actions/workflows/build-main.yml/badge.svg)](https://github.com/scijava/scijava-io-http/actions/workflows/build-main.yml)
 
 # SciJava I/O: HTTP
 
