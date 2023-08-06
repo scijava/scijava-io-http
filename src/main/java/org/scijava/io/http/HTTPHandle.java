@@ -69,6 +69,14 @@ public class HTTPHandle extends AbstractSeekableStreamHandle<HTTPLocation> {
 	/** cache for the length of the stream */
 	private long length = -1l;
 
+	// -- Constructors --
+
+	public HTTPHandle() { }
+
+	public HTTPHandle(final HTTPLocation location) {
+		set(location);
+	}
+
 	// -- StreamHandle methods --
 
 	@Override
